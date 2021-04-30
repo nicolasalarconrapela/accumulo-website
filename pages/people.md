@@ -143,6 +143,7 @@ GitHub also has a [contributor list][github-contributors] based on commits.
 | Mike Fagan          | [Arcus Research][ARCUS]                                           | [MT][MT]              |
 | Morgan Haskel       |                                                                   |                       |
 | Nguessan Kouame     |                                                                   |                       |
+| Nicolas Alarcon R.  |                                                                   | [CEST][CEST]          |
 | Oren Falkowitz      | [sqrrl][SQRRL]                                                    | [ET][ET]              |
 | Phil Eberhardt      | [sqrrl][SQRRL]                                                    | [ET][ET]              |
 | Philip Young        |                                                                   |                       |
